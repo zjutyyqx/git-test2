@@ -24,3 +24,5 @@ target
 .idea
 *.iml
 
+git rm -r --cached .gitignore
+
